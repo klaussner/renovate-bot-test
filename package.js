@@ -4,7 +4,7 @@ Package.describe({
 });
 
 Npm.depends({
-  graphql: "0.13.2"
+  graphql: "15.6.1"
 });
 
 Package.registerBuildPlugin({
